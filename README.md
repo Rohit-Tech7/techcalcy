@@ -51,7 +51,7 @@ TechCalcy
          color:black; 
        
          border: solid blue 4px; 
-         width:100%;
+         width:200%;
          height:50%
          } 
   
