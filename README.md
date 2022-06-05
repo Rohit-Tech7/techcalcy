@@ -72,7 +72,7 @@ TechCalcy
 
 
 
-<BODY background="m.jpg">
+<BODY background="Screenshot_2022-06-05-22-19-54-44.jpg">
 <H2><MARQUEE BGCOLOR = "YELLOW"> You are Good Friend and we Welcome you to TechCalcy.</MARQUEE></H2>
 
 
