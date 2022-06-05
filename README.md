@@ -82,7 +82,7 @@ TechCalcy
 
 
     <div class = title ><h1><b>TechCalcy-Grow With Rohit</b></h1></div> 
-      <table border="7" Width="700" height="700" CELLPADDING="10" CELLSPACING="10"> 
+      <table border="7" Width="700" height="400" CELLPADDING="20" CELLSPACING="20"> 
          <tr> 
            <td colspan="3"> <input type="text" id="result"/></td> 
             <!-- clr() function will call clr to clear all value -->
