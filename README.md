@@ -40,7 +40,7 @@ TechCalcy
          .title{ 
          margin-bottom: 10px; 
          text-align:center; 
-         width: 750px; 
+         width: 300px; 
          color:red; 
          border: solid orange 7px; 
          } 
@@ -82,7 +82,7 @@ TechCalcy
 
 
     <div class = title ><h1><b>TechCalcy-Grow With Rohit</b></h1></div> 
-      <table border="7" Width="700" height="400" CELLPADDING="20" CELLSPACING="20"> 
+      <table border="7" Width="700" height="300" CELLPADDING="20" CELLSPACING="20"> 
          <tr> 
            <td colspan="3"> <input type="text" id="result"/></td> 
             <!-- clr() function will call clr to clear all value -->
@@ -121,9 +121,10 @@ TechCalcy
 <br>
 <Pre>
 <h2><B>
-We always want to serve you to provide the best Experince. 
-      To fulfill this we need your Suggestion. 
-    Please message us on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A></B>
+        We always want to serve you to
+          provide the best Experince. </H2<b><H2>
+  To fulfill this we need your Suggestion. 
+   Please message us on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A></B>
 </h2>
 </Pre>
 
