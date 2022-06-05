@@ -121,10 +121,11 @@ TechCalcy
 <br>
 <Pre>
 <h2><B>
-        We always want to serve you to
-          provide the best Experince. </H2<b><H2>
-  To fulfill this we need your Suggestion. 
-   Please message us on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A></B>
+        We always want to serve you
+       to provide the best Experince.
+        To fulfill this we need your 
+       Suggestion. Please message us
+          on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A></B>
 </h2>
 </Pre>
 
