@@ -72,7 +72,7 @@ TechCalcy
 
 
 
-<BODY background="m.jfif">
+<BODY background="m.jpg">
 <H2><MARQUEE BGCOLOR = "YELLOW"> You are Good Friend and we Welcome you to TechCalcy.</MARQUEE></H2>
 
 
