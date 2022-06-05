@@ -64,9 +64,9 @@ TechCalcy
    <!-- create table -->
 
 
-</HEAD>
 
-<BODY background="m.jfif" SIZE="600">
+
+<BODY background="m.jfif">
 <H2><MARQUEE BGCOLOR = "YELLOW"> You are Good Friend and we Welcome you to TechCalcy.</MARQUEE></H2>
 
 
@@ -78,7 +78,7 @@ TechCalcy
     <div class = title ><h1><b>TechCalcy-Grow With Rohit</b></h1></div> 
       <table border="7" Width="700" height="700" CELLPADDING="10" CELLSPACING="10"> 
          <tr> 
-           <td colspan="3"> <input type="text" id="result"/> </h3></td> 
+           <td colspan="3"> <input type="text" id="result"/></td> 
             <!-- clr() function will call clr to clear all value -->
             <td><input type="button" value="c" onclick="clr()"/> </td> 
          </tr> 
@@ -91,7 +91,7 @@ TechCalcy
             <td><input type="button" value="/" onclick="dis('/')"/> </td> 
          </tr> 
          <tr> 
-           <td> <input type="button" value="4" onclick="dis('4')"/></h3> </td> 
+           <td> <input type="button" value="4" onclick="dis('4')"/> </td> 
             <td><input type="button" value="5" onclick="dis('5')"/> </td> 
             <td><input type="button" value="6" onclick="dis('6')"/> </td> 
             <td><input type="button" value="-" onclick="dis('-')"/> </td> 
