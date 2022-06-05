@@ -125,7 +125,7 @@ TechCalcy
        to provide the best Experince.
         To fulfill this we need your 
        Suggestion. Please message us
-          on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A></B>
+          on Twitter<A HREF="https://mobile.twitter.com/Rohitishere7"> Click here </A>
 </h2>
 </Pre>
 
